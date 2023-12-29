@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Projeto de Cadastro de Usuário
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Fiz o projeto para aprender um pouco de React, farei a refatoração e mais futuramente
+
+Abaixo tem alguns comandos que é necessário para abrir o projeto localmente.
 
 ## Available Scripts
 
