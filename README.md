@@ -1,6 +1,6 @@
 # Projeto de Cadastro de Usuário
 
-Fiz o projeto para aprender um pouco de React, farei a refatoração e mais futuramente
+Fiz o projeto para aprender um pouco de React, farei a refatoração futuramente
 
 Abaixo tem alguns comandos que é necessário para abrir o projeto localmente.
 
